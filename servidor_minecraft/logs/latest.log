@@ -2053,3 +2053,7 @@
 [31Dec2024 03:08:21.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC was slain by Elephant
 [31Dec2024 03:08:21.181] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for zPushMC with unique ID travelersbackpack.standard_31.12.2024-03.08.21.dat
 [31Dec2024 03:08:21.184] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -168 Y: 67.0 Z: -420
+[31Dec2024 03:14:57.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Applied effect Night Vision to zPushMC]
+[31Dec2024 03:15:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Stone Age]
+[31Dec2024 03:16:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Deceived Hopes]
+[31Dec2024 03:16:40.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Deceived Hopes]

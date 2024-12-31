@@ -1940,3 +1940,73 @@
 [31Dec2024 02:46:58.640] [Server thread/INFO] [Jade/]: Syncing config to Cruz (c3907e25-046c-3f52-a3c6-9eae371555ef)
 [31Dec2024 02:46:58.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Orcz Challenges]
 [31Dec2024 02:46:58.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Ice and Fire]
+[31Dec2024 02:48:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zPushMC> yavoy
+[31Dec2024 02:49:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Minecraft Comes Alive]
+[31Dec2024 02:49:50.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cruz> compadre
+[31Dec2024 02:49:51.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cruz> dc
+[31Dec2024 02:50:38.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Alex's Mobs]
+[31Dec2024 02:50:52.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cruz> compadreeeeeeeeee
+[31Dec2024 02:50:56.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zPushMC> voyy
+[31Dec2024 02:51:06.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zPushMC> taba extermianando a la ordaaaaaaaaaaaaa
+[31Dec2024 02:51:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cruz> esta verga se puso aletorio
+[31Dec2024 02:51:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zPushMC> como asi?
+[31Dec2024 02:51:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zPushMC> y donde esta
+[31Dec2024 02:52:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Mine? Mine? Mine?]
+[31Dec2024 02:52:44.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Who You Gonna Call?]
+[31Dec2024 02:52:57.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cruz> nojke
+[31Dec2024 02:53:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz was slain by Zombie
+[31Dec2024 02:53:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported Cruz to zPushMC]
+[31Dec2024 02:53:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cruz> dc
+[31Dec2024 02:55:01.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:57864] logged in with entity id 13827 at (53.5, 64.0, 26.5)
+[31Dec2024 02:55:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 02:55:01.784] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 02:55:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii has made the advancement [Orcz Challenges]
+[31Dec2024 02:55:01.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii has made the advancement [Ice and Fire]
+[31Dec2024 02:55:50.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[31Dec2024 02:56:14.915] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-58, z=49}
+[31Dec2024 02:56:14.916] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-58, z=49}
+[31Dec2024 02:56:14.928] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-58, z=55}
+[31Dec2024 02:56:14.928] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=55}
+[31Dec2024 02:56:24.238] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=129, y=-56, z=107}
+[31Dec2024 02:56:24.414] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-57, z=27}
+[31Dec2024 02:56:24.415] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-58, z=25}
+[31Dec2024 02:56:24.418] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=26}
+[31Dec2024 02:56:24.611] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=20}
+[31Dec2024 02:56:24.611] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-55, z=20}
+[31Dec2024 02:56:24.612] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=20}
+[31Dec2024 02:56:25.794] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-58, z=75}
+[31Dec2024 02:56:25.967] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-57, z=27}
+[31Dec2024 02:56:25.967] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=26}
+[31Dec2024 02:56:25.969] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-57, z=72}
+[31Dec2024 02:56:26.012] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=20}
+[31Dec2024 02:56:26.013] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-58, z=25}
+[31Dec2024 02:56:26.013] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-55, z=20}
+[31Dec2024 02:56:26.014] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=20}
+[31Dec2024 02:56:26.257] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=126, y=-55, z=110}
+[31Dec2024 02:56:26.258] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=127, y=-56, z=114}
+[31Dec2024 02:56:26.258] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=134, y=-56, z=111}
+[31Dec2024 02:56:26.326] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=20}
+[31Dec2024 02:56:26.329] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-57, z=27}
+[31Dec2024 02:56:26.329] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=20}
+[31Dec2024 02:56:26.331] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=26}
+[31Dec2024 02:56:31.754] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-57, z=114}
+[31Dec2024 02:56:31.769] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-56, z=113}
+[31Dec2024 02:56:31.769] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-57, z=114}
+[31Dec2024 02:56:31.770] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=113}
+[31Dec2024 02:56:31.771] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-57, z=114}
+[31Dec2024 02:56:31.774] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-58, z=25}
+[31Dec2024 02:56:31.774] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-55, z=20}
+[31Dec2024 02:56:37.403] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-58, z=25}
+[31Dec2024 02:56:37.404] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-55, z=20}
+[31Dec2024 02:56:37.453] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=20}
+[31Dec2024 02:56:37.453] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-57, z=27}
+[31Dec2024 02:56:37.454] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=20}
+[31Dec2024 02:56:37.454] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=-57, z=26}
+[31Dec2024 02:56:38.026] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-57, z=120}
+[31Dec2024 02:56:38.027] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-57, z=119}
+[31Dec2024 02:56:38.046] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-20, y=-59, z=116}
+[31Dec2024 02:56:38.046] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-57, z=115}
+[31Dec2024 02:56:38.046] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-56, z=120}
+[31Dec2024 02:56:38.047] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-58, z=117}
+[31Dec2024 02:56:38.047] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-56, z=116}
+[31Dec2024 02:57:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz was slain by Baby Skeleton

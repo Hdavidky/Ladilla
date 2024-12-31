@@ -2057,3 +2057,20 @@
 [31Dec2024 03:15:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Stone Age]
 [31Dec2024 03:16:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Deceived Hopes]
 [31Dec2024 03:16:40.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Deceived Hopes]
+[31Dec2024 03:19:21.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Monster Hunter]
+[31Dec2024 03:20:10.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Junior Summoner]
+[31Dec2024 03:23:54.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported zPushMC to Cruz]
+[31Dec2024 03:24:19.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:53332] logged in with entity id 23404 at (-181.3902447488576, 71.5, -380.68914979412017)
+[31Dec2024 03:24:19.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 03:24:19.637] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:24:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC was blown up by Creeper
+[31Dec2024 03:24:39.585] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for zPushMC with unique ID travelersbackpack.standard_31.12.2024-03.24.39.dat
+[31Dec2024 03:24:39.585] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -306 Y: -18.0 Z: -335
+[31Dec2024 03:24:46.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported zPushMC to Cruz]
+[31Dec2024 03:25:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Applied effect Night Vision to zPushMC]
+[31Dec2024 03:25:19.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:25:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:26:12.179] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cec4df[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:47426) lost connection: Timed out
+[31Dec2024 03:27:57.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC was blown up by Creeper
+[31Dec2024 03:28:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported zPushMC to Cruz]
+[31Dec2024 03:28:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Applied effect Night Vision to zPushMC]

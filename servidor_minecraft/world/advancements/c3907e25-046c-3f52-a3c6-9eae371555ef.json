@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_fertility": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
@@ -71,9 +83,21 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-31 03:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -383,6 +407,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-12-31 03:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
@@ -685,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-31 02:59:53 +0000"
@@ -772,6 +808,12 @@
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -937,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-31 03:15:51 +0000"
@@ -946,6 +994,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-31 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -1018,6 +1072,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-31 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -1198,6 +1258,12 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-31 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -1429,6 +1495,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-31 03:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-31 03:22:53 +0000"
@@ -1474,6 +1546,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -1528,6 +1606,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-31 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -1741,6 +1825,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-31 03:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-31 03:07:00 +0000"
@@ -1774,6 +1864,12 @@
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -1933,6 +2029,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-31 03:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 03:01:29 +0000"
@@ -2041,6 +2149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
@@ -2077,6 +2191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-31 03:05:42 +0000"
@@ -2086,6 +2206,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-31 03:29:24 +0000"
     },
     "done": true
   },
@@ -2305,6 +2431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2024-12-31 03:07:02 +0000"
@@ -2395,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-31 03:05:52 +0000"
@@ -2422,6 +2560,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-12-31 03:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -2482,6 +2626,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-12-31 03:32:19 +0000"
     },
     "done": true
   },
@@ -2575,6 +2725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
@@ -2656,6 +2812,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-12-31 03:32:19 +0000"
     },
     "done": true
   },
@@ -2803,6 +2965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-31 03:15:53 +0000"
@@ -2851,6 +3019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
@@ -2879,6 +3053,12 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2024-12-31 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
     },
     "done": true
   },
@@ -3092,6 +3272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-31 03:29:10 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-31 03:00:31 +0000"
@@ -3119,6 +3305,12 @@
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2024-12-31 02:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-31 03:29:15 +0000"
     },
     "done": true
   },

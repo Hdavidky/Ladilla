@@ -2074,3 +2074,20 @@
 [31Dec2024 03:27:57.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC was blown up by Creeper
 [31Dec2024 03:28:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported zPushMC to Cruz]
 [31Dec2024 03:28:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Applied effect Night Vision to zPushMC]
+[31Dec2024 03:29:37.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:53452] logged in with entity id 24938 at (-149.14502504312992, 69.0, -402.4395250009934)
+[31Dec2024 03:29:37.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 03:29:37.468] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:29:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported Didiprii to zPushMC]
+[31Dec2024 03:30:22.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:30:22.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:31:55.481] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@225fba2f[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:37176) lost connection: Timed out
+[31Dec2024 03:32:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Suit Up]
+[31Dec2024 03:34:59.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported zPushMC to Cruz]
+[31Dec2024 03:35:18.683] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e67efa7[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:33848) lost connection: Timed out
+[31Dec2024 03:35:35.680] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ebae98a[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:53772) lost connection: Timed out
+[31Dec2024 03:37:07.881] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@560c9962[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:33964): Took too long to log in
+[31Dec2024 03:37:07.882] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@560c9962[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:33964) lost connection: Took too long to log in
+[31Dec2024 03:37:07.927] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 03:37:35.575] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7f88c36b[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:48028): Took too long to log in
+[31Dec2024 03:37:35.576] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f88c36b[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:48028) lost connection: Took too long to log in
+[31Dec2024 03:37:35.629] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

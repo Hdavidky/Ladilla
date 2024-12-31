@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-31 03:28:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -2480,6 +2486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-31 03:28:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/scribes_table": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -3266,6 +3278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-31 03:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-31 02:55:09 +0000"
@@ -3922,6 +3940,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-31 03:35:29 +0000"
     },
     "done": true
   },

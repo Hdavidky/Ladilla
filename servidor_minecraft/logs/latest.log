@@ -2010,3 +2010,46 @@
 [31Dec2024 02:56:38.047] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-58, z=117}
 [31Dec2024 02:56:38.047] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-56, z=116}
 [31Dec2024 02:57:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz was slain by Baby Skeleton
+[31Dec2024 02:58:49.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Crops of the Wild]
+[31Dec2024 02:58:55.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii moved too quickly! 9.691641804381874,0.9375,-2.50174016962103
+[31Dec2024 02:59:02.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 02:59:02.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 02:59:45.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:52352] logged in with entity id 16552 at (-211.8996622690012, -48.0, 396.73830117635544)
+[31Dec2024 02:59:45.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 02:59:45.327] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:00:15.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:00:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:00:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported Cruz to zPushMC]
+[31Dec2024 03:01:02.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Diamonds!]
+[31Dec2024 03:01:11.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC has made the advancement [Cover Me with Diamonds]
+[31Dec2024 03:01:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Acquire Hardware]
+[31Dec2024 03:01:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Isn't It Iron Pick]
+[31Dec2024 03:01:47.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:59978] logged in with entity id 17328 at (-211.8996622690012, -48.0, 396.73830117635544)
+[31Dec2024 03:01:47.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 03:01:47.911] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:02:17.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:02:17.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:03:06.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:53436] logged in with entity id 17987 at (-211.8996622690012, -48.0, 396.73830117635544)
+[31Dec2024 03:03:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 03:03:06.454] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:03:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Mine? Mine? Mine?]
+[31Dec2024 03:03:36.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:03:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:03:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz withered away
+[31Dec2024 03:04:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported Cruz to zPushMC]
+[31Dec2024 03:04:35.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:50984] logged in with entity id 19005 at (-211.8996622690012, -48.0, 396.73830117635544)
+[31Dec2024 03:04:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 03:04:35.500] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:04:57.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zPushMC: Teleported Didiprii to zPushMC]
+[31Dec2024 03:05:05.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:05:05.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:06:49.386] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40e8bacd[id=<null>,name=Didiprii,properties={},legacy=false] (/[::1]:42714) lost connection: Timed out
+[31Dec2024 03:07:00.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cruz has made the advancement [Diamonds!]
+[31Dec2024 03:07:12.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Didiprii[/[::1]:36210] logged in with entity id 19939 at (-181.3902447488576, 71.5, -380.68914979412017)
+[31Dec2024 03:07:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii joined the game
+[31Dec2024 03:07:13.053] [Server thread/INFO] [Jade/]: Syncing config to Didiprii (6e4fc561-01f0-33c3-9246-ca4bbddd94c8)
+[31Dec2024 03:07:43.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Didiprii lost connection: Timed out
+[31Dec2024 03:07:43.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Didiprii left the game
+[31Dec2024 03:08:21.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zPushMC was slain by Elephant
+[31Dec2024 03:08:21.181] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for zPushMC with unique ID travelersbackpack.standard_31.12.2024-03.08.21.dat
+[31Dec2024 03:08:21.184] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -168 Y: 67.0 Z: -420

@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:04 +0000"
@@ -200,6 +206,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -431,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-31 03:01:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -545,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-31 03:07:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -569,9 +599,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2024-12-31 02:35:38 +0000"
+      "minecraft:skeleton": "2024-12-31 02:55:47 +0000",
+      "minecraft:zombie": "2024-12-31 02:35:38 +0000",
+      "minecraft:drowned": "2024-12-31 02:59:23 +0000"
     },
     "done": false
   },
@@ -680,6 +718,12 @@
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-31 03:07:56 +0000"
     },
     "done": true
   },
@@ -809,6 +853,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/polished_source_sconce": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -917,6 +973,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 02:20:31 +0000"
@@ -1001,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 02:57:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-31 02:20:31 +0000"
@@ -1073,6 +1141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 02:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-31 02:31:28 +0000"
@@ -1136,6 +1210,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-31 02:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -1349,6 +1429,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -1358,6 +1444,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2024-12-31 02:31:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-31 02:57:28 +0000"
     },
     "done": true
   },
@@ -1433,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -1493,6 +1591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-31 03:07:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_core": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -1532,6 +1636,12 @@
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -1613,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-31 03:07:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
@@ -1685,6 +1801,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 02:20:31 +0000"
@@ -1712,6 +1834,12 @@
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2024-12-31 02:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -1760,6 +1888,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 02:57:28 +0000"
     },
     "done": true
   },
@@ -2315,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-31 02:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-31 02:16:56 +0000"
@@ -2354,6 +2494,12 @@
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-31 02:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-31 02:55:09 +0000"
     },
     "done": true
   },
@@ -2438,6 +2584,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -2663,6 +2815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-31 02:55:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:04 +0000"
@@ -2702,6 +2860,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-31 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-31 03:07:56 +0000"
     },
     "done": true
   },
@@ -2792,6 +2956,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -3052,6 +3222,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-31 02:38:07 +0000",
+      "potato": "2024-12-31 02:58:29 +0000",
       "bread": "2024-12-31 02:25:05 +0000"
     },
     "done": false
@@ -3059,6 +3230,13 @@
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2024-12-31 02:13:04 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 03:01:02 +0000",
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
@@ -3104,6 +3282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-31 03:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-31 02:49:08 +0000"
@@ -3119,6 +3303,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-31 02:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-31 03:01:02 +0000"
     },
     "done": true
   },
